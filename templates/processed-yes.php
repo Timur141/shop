@@ -1,0 +1,1 @@
+<span class="order-item__info order-item__info--yes">Выполнено</span>
